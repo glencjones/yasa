@@ -1,2 +1,2 @@
 # yasa
-Yet another search aggreagor
+Yet another search aggregator
